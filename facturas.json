@@ -1,0 +1,36 @@
+[
+ {
+  "uid": "07b54cd0-4097-403d-9f6e-0fe96ce2d139",
+  "seq": 1,
+  "numero": "NMS-00001",
+  "fecha": "2026-11-02T13:43:36.294Z",
+  "estado": "guardada",
+  "cliente": {
+   "nombre": "PRUEBA",
+   "doc": "V000000000",
+   "tel": "04129999999",
+   "evento": "DIRECCION PRUEBA"
+  },
+  "iva": 0.8,
+  "tasa": null,
+  "tasaFecha": null,
+  "totalBs": null,
+  "items": [
+   {
+    "codigo": "BF0001",
+    "id": 26,
+    "producto": "BOTECITO FUDGE 300GR X 6",
+    "linea": "CONFITERIA",
+    "marca": "ONCE-ONCE",
+    "unidad": "DIS",
+    "precio": 5.02,
+    "impuesto": 0.16,
+    "qty": 1,
+    "total": 5.02
+   }
+  ],
+  "art": 1,
+  "sub": 5.02,
+  "total": 5.82
+ }
+]
