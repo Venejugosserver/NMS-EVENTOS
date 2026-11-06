@@ -153,6 +153,88 @@
   "anuladaEn": "2026-11-04T23:59:34.319Z"
  },
  {
+  "uid": "5d101000-fe41-4d9a-afc3-3dd503fd11fa",
+  "seq": 2,
+  "numero": "NMS-00002",
+  "fecha": "2026-11-02T16:36:05.337Z",
+  "estado": "guardada",
+  "cliente": {
+   "nombre": "SHARON PERNIA",
+   "doc": "",
+   "tel": "04242624072",
+   "evento": ""
+  },
+  "iva": 0,
+  "tasa": 889.57,
+  "tasaFecha": "2026-11-02",
+  "totalBs": 14953.67,
+  "items": [
+   {
+    "codigo": "000423",
+    "id": 1,
+    "producto": "BOTECITOS CHOCOLATE PAQ 6UNDX210GR",
+    "linea": "CONFITERIA",
+    "marca": "ONCE-ONCE",
+    "unidad": "DIS",
+    "precio": 4.38,
+    "impuesto": 0.16,
+    "qty": 1,
+    "total": 4.38
+   },
+   {
+    "codigo": "12055359",
+    "id": 4,
+    "producto": "SAVOY® CARRÉ MINI AVELLANAS 16(16X25G)",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 1.36,
+    "impuesto": 0.16,
+    "qty": 2,
+    "total": 2.72
+   },
+   {
+    "codigo": "12055663",
+    "id": 5,
+    "producto": "SAVOY® LECHE 24(12X30G) VE",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 1.23,
+    "impuesto": 0.16,
+    "qty": 1,
+    "total": 1.23
+   },
+   {
+    "codigo": "12057192",
+    "id": 7,
+    "producto": "SAVOY® CARRÉ AVELLANAS 12(10X100G)",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 4.72,
+    "impuesto": 0.16,
+    "qty": 1,
+    "total": 4.72
+   },
+   {
+    "codigo": "12781256",
+    "id": 22,
+    "producto": "SUSY Nav Galleta MP 60(4x50g) VE",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 0.94,
+    "impuesto": 0.16,
+    "qty": 4,
+    "total": 3.76
+   }
+  ],
+  "art": 9,
+  "sub": 16.81,
+  "total": 16.81
+ },
+ {
   "uid": "f91f2065-c233-49b7-bd67-f9db1f97f19a",
   "seq": 3,
   "numero": "NMS-00003",
@@ -269,6 +351,112 @@
   "art": 12,
   "sub": 36.49,
   "total": 36.49
+ },
+ {
+  "uid": "580e050d-13c9-4154-8f89-4145cb26d13b",
+  "seq": 3,
+  "numero": "NMS-00003",
+  "fecha": "2026-11-02T17:07:38.206Z",
+  "estado": "guardada",
+  "cliente": {
+   "nombre": "JABNEEL LEIRA",
+   "doc": "",
+   "tel": "04166240024",
+   "evento": ""
+  },
+  "iva": 0,
+  "tasa": 889.57,
+  "tasaFecha": "2026-11-02",
+  "totalBs": 33812.56,
+  "items": [
+   {
+    "codigo": "12087285",
+    "id": 10,
+    "producto": "SAMBA® CHOCOLATE DISPLAY 16(20X32G)",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 0.9,
+    "impuesto": 0.16,
+    "qty": 2,
+    "total": 1.8
+   },
+   {
+    "codigo": "12124086",
+    "id": 11,
+    "producto": "SAVOY® LECHE (5X130G)",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 4.12,
+    "impuesto": 0.16,
+    "qty": 2,
+    "total": 8.24
+   },
+   {
+    "codigo": "12220036",
+    "id": 14,
+    "producto": "RIKITI CHOCO MANI (5X130G)",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 4.12,
+    "impuesto": 0.16,
+    "qty": 2,
+    "total": 8.24
+   },
+   {
+    "codigo": "12352698",
+    "id": 18,
+    "producto": "NESTLE-SAVOY NAVIDAD 16(9X70G) VE",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 2.51,
+    "impuesto": 0.16,
+    "qty": 2,
+    "total": 5.02
+   },
+   {
+    "codigo": "12381710",
+    "id": 20,
+    "producto": "SAVOY POSTRES 55% DE CACAO (4X200G) VE",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 5.93,
+    "impuesto": 0.16,
+    "qty": 1,
+    "total": 5.93
+   },
+   {
+    "codigo": "12781256",
+    "id": 22,
+    "producto": "SUSY Nav Galleta MP 60(4x50g) VE",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 0.94,
+    "impuesto": 0.16,
+    "qty": 4,
+    "total": 3.76
+   },
+   {
+    "codigo": "BF0001",
+    "id": 26,
+    "producto": "BOTECITO FUDGE 300GR X 6",
+    "linea": "CONFITERIA",
+    "marca": "ONCE-ONCE",
+    "unidad": "DIS",
+    "precio": 5.02,
+    "impuesto": 0.16,
+    "qty": 1,
+    "total": 5.02
+   }
+  ],
+  "art": 14,
+  "sub": 38.01,
+  "total": 38.01
  },
  {
   "uid": "7b1a00d1-a488-4064-9ac8-cce787687066",
