@@ -1618,7 +1618,7 @@
   "seq": 15,
   "numero": "NMS-00015",
   "fecha": "2026-11-05T01:38:20.924Z",
-  "estado": "guardada",
+  "estado": "anulada",
   "cliente": {
    "nombre": "Yuleidya Medina",
    "doc": "Credito",
@@ -1669,7 +1669,8 @@
   ],
   "art": 7,
   "sub": 25.6,
-  "total": 25.6
+  "total": 25.6,
+  "anuladaEn": "2026-11-11T10:25:14.525Z"
  },
  {
   "uid": "665dc1a5-d508-412d-be4f-2fce6fa16fb9",
