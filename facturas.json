@@ -4454,7 +4454,7 @@
   "seq": 49,
   "numero": "NMS-00049",
   "fecha": "2026-11-11T10:19:53.797Z",
-  "estado": "guardada",
+  "estado": "anulada",
   "cliente": {
    "nombre": "Edgar Valls",
    "doc": "credito",
@@ -4505,6 +4505,7 @@
   ],
   "art": 5,
   "sub": 21.96,
-  "total": 21.96
+  "total": 21.96,
+  "anuladaEn": "2026-11-11T10:20:27.475Z"
  }
 ]
