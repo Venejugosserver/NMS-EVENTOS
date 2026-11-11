@@ -4448,5 +4448,63 @@
   "art": 5,
   "sub": 33.8,
   "total": 33.8
+ },
+ {
+  "uid": "52d5166e-eada-4fff-b305-dcad22e646ab",
+  "seq": 49,
+  "numero": "NMS-00049",
+  "fecha": "2026-11-11T10:19:53.797Z",
+  "estado": "guardada",
+  "cliente": {
+   "nombre": "Edgar Valls",
+   "doc": "credito",
+   "tel": "",
+   "evento": ""
+  },
+  "iva": 0,
+  "tasa": 889.57,
+  "tasaFecha": "2026-11-02",
+  "totalBs": 19534.96,
+  "items": [
+   {
+    "codigo": "12087277",
+    "id": 8,
+    "producto": "SAMBA® FRESA DISPLAY 16(20X32G) VE",
+    "linea": "Sin línea",
+    "marca": "",
+    "unidad": "DIS",
+    "precio": 0.9,
+    "impuesto": 0,
+    "qty": 2,
+    "total": 1.8
+   },
+   {
+    "codigo": "12409154",
+    "id": 35,
+    "producto": "NESTUM PBIO1 IRON+ 3 CEREALS 24X225G VE",
+    "linea": "Sin línea",
+    "marca": "",
+    "unidad": "UNI",
+    "precio": 4.12,
+    "impuesto": 0,
+    "qty": 2,
+    "total": 8.24
+   },
+   {
+    "codigo": "12500552",
+    "id": 41,
+    "producto": "LA CAMPESINA LECPLV HIERRO 12X800GVE",
+    "linea": "Sin línea",
+    "marca": "",
+    "unidad": "UNI",
+    "precio": 11.92,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 11.92
+   }
+  ],
+  "art": 5,
+  "sub": 21.96,
+  "total": 21.96
  }
 ]
