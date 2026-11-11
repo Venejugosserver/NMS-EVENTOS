@@ -31,198 +31,7 @@
   ],
   "art": 1,
   "sub": 5.02,
-  "total": 5.82,
-  "historico": true
- },
- {
-  "uid": "5d101000-fe41-4d9a-afc3-3dd503fd11fa",
-  "seq": 2,
-  "numero": "NMS-00002",
-  "fecha": "2026-11-02T16:36:05.337Z",
-  "estado": "guardada",
-  "cliente": {
-   "nombre": "SHARON PERNIA",
-   "doc": "",
-   "tel": "04242624072",
-   "evento": ""
-  },
-  "iva": 0,
-  "tasa": 889.57,
-  "tasaFecha": "2026-11-02",
-  "totalBs": 14953.67,
-  "items": [
-   {
-    "codigo": "000423",
-    "id": 1,
-    "producto": "BOTECITOS CHOCOLATE PAQ 6UNDX210GR",
-    "linea": "CONFITERIA",
-    "marca": "ONCE-ONCE",
-    "unidad": "DIS",
-    "precio": 4.38,
-    "impuesto": 0.16,
-    "qty": 1,
-    "total": 4.38
-   },
-   {
-    "codigo": "12055359",
-    "id": 4,
-    "producto": "SAVOY® CARRÉ MINI AVELLANAS 16(16X25G)",
-    "linea": "VE Nestle Confites",
-    "marca": "NESTLE",
-    "unidad": "DIS",
-    "precio": 1.36,
-    "impuesto": 0.16,
-    "qty": 2,
-    "total": 2.72
-   },
-   {
-    "codigo": "12055663",
-    "id": 5,
-    "producto": "SAVOY® LECHE 24(12X30G) VE",
-    "linea": "VE Nestle Confites",
-    "marca": "NESTLE",
-    "unidad": "DIS",
-    "precio": 1.23,
-    "impuesto": 0.16,
-    "qty": 1,
-    "total": 1.23
-   },
-   {
-    "codigo": "12057192",
-    "id": 7,
-    "producto": "SAVOY® CARRÉ AVELLANAS 12(10X100G)",
-    "linea": "VE Nestle Confites",
-    "marca": "NESTLE",
-    "unidad": "DIS",
-    "precio": 4.72,
-    "impuesto": 0.16,
-    "qty": 1,
-    "total": 4.72
-   },
-   {
-    "codigo": "12781256",
-    "id": 22,
-    "producto": "SUSY Nav Galleta MP 60(4x50g) VE",
-    "linea": "VE Nestle Confites",
-    "marca": "NESTLE",
-    "unidad": "DIS",
-    "precio": 0.94,
-    "impuesto": 0.16,
-    "qty": 4,
-    "total": 3.76
-   }
-  ],
-  "art": 9,
-  "sub": 16.81,
-  "total": 16.81,
-  "historico": true
- },
- {
-  "uid": "580e050d-13c9-4154-8f89-4145cb26d13b",
-  "seq": 3,
-  "numero": "NMS-00003",
-  "fecha": "2026-11-02T17:07:38.206Z",
-  "estado": "guardada",
-  "cliente": {
-   "nombre": "JABNEEL LEIRA",
-   "doc": "",
-   "tel": "04166240024",
-   "evento": ""
-  },
-  "iva": 0,
-  "tasa": 889.57,
-  "tasaFecha": "2026-11-02",
-  "totalBs": 33812.56,
-  "items": [
-   {
-    "codigo": "12087285",
-    "id": 10,
-    "producto": "SAMBA® CHOCOLATE DISPLAY 16(20X32G)",
-    "linea": "VE Nestle Confites",
-    "marca": "NESTLE",
-    "unidad": "DIS",
-    "precio": 0.9,
-    "impuesto": 0.16,
-    "qty": 2,
-    "total": 1.8
-   },
-   {
-    "codigo": "12124086",
-    "id": 11,
-    "producto": "SAVOY® LECHE (5X130G)",
-    "linea": "VE Nestle Confites",
-    "marca": "NESTLE",
-    "unidad": "DIS",
-    "precio": 4.12,
-    "impuesto": 0.16,
-    "qty": 2,
-    "total": 8.24
-   },
-   {
-    "codigo": "12220036",
-    "id": 14,
-    "producto": "RIKITI CHOCO MANI (5X130G)",
-    "linea": "VE Nestle Confites",
-    "marca": "NESTLE",
-    "unidad": "DIS",
-    "precio": 4.12,
-    "impuesto": 0.16,
-    "qty": 2,
-    "total": 8.24
-   },
-   {
-    "codigo": "12352698",
-    "id": 18,
-    "producto": "NESTLE-SAVOY NAVIDAD 16(9X70G) VE",
-    "linea": "VE Nestle Confites",
-    "marca": "NESTLE",
-    "unidad": "DIS",
-    "precio": 2.51,
-    "impuesto": 0.16,
-    "qty": 2,
-    "total": 5.02
-   },
-   {
-    "codigo": "12381710",
-    "id": 20,
-    "producto": "SAVOY POSTRES 55% DE CACAO (4X200G) VE",
-    "linea": "VE Nestle Confites",
-    "marca": "NESTLE",
-    "unidad": "DIS",
-    "precio": 5.93,
-    "impuesto": 0.16,
-    "qty": 1,
-    "total": 5.93
-   },
-   {
-    "codigo": "12781256",
-    "id": 22,
-    "producto": "SUSY Nav Galleta MP 60(4x50g) VE",
-    "linea": "VE Nestle Confites",
-    "marca": "NESTLE",
-    "unidad": "DIS",
-    "precio": 0.94,
-    "impuesto": 0.16,
-    "qty": 4,
-    "total": 3.76
-   },
-   {
-    "codigo": "BF0001",
-    "id": 26,
-    "producto": "BOTECITO FUDGE 300GR X 6",
-    "linea": "CONFITERIA",
-    "marca": "ONCE-ONCE",
-    "unidad": "DIS",
-    "precio": 5.02,
-    "impuesto": 0.16,
-    "qty": 1,
-    "total": 5.02
-   }
-  ],
-  "art": 14,
-  "sub": 38.01,
-  "total": 38.01,
-  "historico": true
+  "total": 5.82
  },
  {
   "uid": "371c1ab9-2f91-4fb7-81c5-4c29b96717f6",
@@ -341,8 +150,89 @@
   "art": 12,
   "sub": 36.49,
   "total": 36.49,
-  "anuladaEn": "2026-11-04T23:59:34.319Z",
-  "historico": true
+  "anuladaEn": "2026-11-04T23:59:34.319Z"
+ },
+ {
+  "uid": "5d101000-fe41-4d9a-afc3-3dd503fd11fa",
+  "seq": 2,
+  "numero": "NMS-00002",
+  "fecha": "2026-11-02T16:36:05.337Z",
+  "estado": "guardada",
+  "cliente": {
+   "nombre": "SHARON PERNIA",
+   "doc": "",
+   "tel": "04242624072",
+   "evento": ""
+  },
+  "iva": 0,
+  "tasa": 889.57,
+  "tasaFecha": "2026-11-02",
+  "totalBs": 14953.67,
+  "items": [
+   {
+    "codigo": "000423",
+    "id": 1,
+    "producto": "BOTECITOS CHOCOLATE PAQ 6UNDX210GR",
+    "linea": "CONFITERIA",
+    "marca": "ONCE-ONCE",
+    "unidad": "DIS",
+    "precio": 4.38,
+    "impuesto": 0.16,
+    "qty": 1,
+    "total": 4.38
+   },
+   {
+    "codigo": "12055359",
+    "id": 4,
+    "producto": "SAVOY® CARRÉ MINI AVELLANAS 16(16X25G)",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 1.36,
+    "impuesto": 0.16,
+    "qty": 2,
+    "total": 2.72
+   },
+   {
+    "codigo": "12055663",
+    "id": 5,
+    "producto": "SAVOY® LECHE 24(12X30G) VE",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 1.23,
+    "impuesto": 0.16,
+    "qty": 1,
+    "total": 1.23
+   },
+   {
+    "codigo": "12057192",
+    "id": 7,
+    "producto": "SAVOY® CARRÉ AVELLANAS 12(10X100G)",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 4.72,
+    "impuesto": 0.16,
+    "qty": 1,
+    "total": 4.72
+   },
+   {
+    "codigo": "12781256",
+    "id": 22,
+    "producto": "SUSY Nav Galleta MP 60(4x50g) VE",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 0.94,
+    "impuesto": 0.16,
+    "qty": 4,
+    "total": 3.76
+   }
+  ],
+  "art": 9,
+  "sub": 16.81,
+  "total": 16.81
  },
  {
   "uid": "f91f2065-c233-49b7-bd67-f9db1f97f19a",
@@ -460,8 +350,113 @@
   ],
   "art": 12,
   "sub": 36.49,
-  "total": 36.49,
-  "historico": true
+  "total": 36.49
+ },
+ {
+  "uid": "580e050d-13c9-4154-8f89-4145cb26d13b",
+  "seq": 3,
+  "numero": "NMS-00003",
+  "fecha": "2026-11-02T17:07:38.206Z",
+  "estado": "guardada",
+  "cliente": {
+   "nombre": "JABNEEL LEIRA",
+   "doc": "",
+   "tel": "04166240024",
+   "evento": ""
+  },
+  "iva": 0,
+  "tasa": 889.57,
+  "tasaFecha": "2026-11-02",
+  "totalBs": 33812.56,
+  "items": [
+   {
+    "codigo": "12087285",
+    "id": 10,
+    "producto": "SAMBA® CHOCOLATE DISPLAY 16(20X32G)",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 0.9,
+    "impuesto": 0.16,
+    "qty": 2,
+    "total": 1.8
+   },
+   {
+    "codigo": "12124086",
+    "id": 11,
+    "producto": "SAVOY® LECHE (5X130G)",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 4.12,
+    "impuesto": 0.16,
+    "qty": 2,
+    "total": 8.24
+   },
+   {
+    "codigo": "12220036",
+    "id": 14,
+    "producto": "RIKITI CHOCO MANI (5X130G)",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 4.12,
+    "impuesto": 0.16,
+    "qty": 2,
+    "total": 8.24
+   },
+   {
+    "codigo": "12352698",
+    "id": 18,
+    "producto": "NESTLE-SAVOY NAVIDAD 16(9X70G) VE",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 2.51,
+    "impuesto": 0.16,
+    "qty": 2,
+    "total": 5.02
+   },
+   {
+    "codigo": "12381710",
+    "id": 20,
+    "producto": "SAVOY POSTRES 55% DE CACAO (4X200G) VE",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 5.93,
+    "impuesto": 0.16,
+    "qty": 1,
+    "total": 5.93
+   },
+   {
+    "codigo": "12781256",
+    "id": 22,
+    "producto": "SUSY Nav Galleta MP 60(4x50g) VE",
+    "linea": "VE Nestle Confites",
+    "marca": "NESTLE",
+    "unidad": "DIS",
+    "precio": 0.94,
+    "impuesto": 0.16,
+    "qty": 4,
+    "total": 3.76
+   },
+   {
+    "codigo": "BF0001",
+    "id": 26,
+    "producto": "BOTECITO FUDGE 300GR X 6",
+    "linea": "CONFITERIA",
+    "marca": "ONCE-ONCE",
+    "unidad": "DIS",
+    "precio": 5.02,
+    "impuesto": 0.16,
+    "qty": 1,
+    "total": 5.02
+   }
+  ],
+  "art": 14,
+  "sub": 38.01,
+  "total": 38.01
  },
  {
   "uid": "7b1a00d1-a488-4064-9ac8-cce787687066",
@@ -531,8 +526,7 @@
   ],
   "art": 5,
   "sub": 17.74,
-  "total": 17.74,
-  "historico": true
+  "total": 17.74
  },
  {
   "uid": "dd29810c-7b17-4f99-bb86-28e78a969d56",
@@ -590,8 +584,7 @@
   ],
   "art": 7,
   "sub": 37.33,
-  "total": 37.33,
-  "historico": true
+  "total": 37.33
  },
  {
   "uid": "b8090639-f5ab-4cec-96ee-bf37df8c8b48",
@@ -769,15 +762,14 @@
   ],
   "art": 17,
   "sub": 92.12,
-  "total": 92.12,
-  "historico": true
+  "total": 92.12
  },
  {
   "uid": "51a111ca-6bdc-46cf-9062-07a78dfd370c",
   "seq": 7,
   "numero": "NMS-00007",
   "fecha": "2026-11-05T01:14:12.244Z",
-  "estado": "guardada",
+  "estado": "anulada",
   "cliente": {
    "nombre": "Edgar Valls",
    "doc": "credito",
@@ -853,7 +845,7 @@
   "art": 9,
   "sub": 29.11,
   "total": 29.11,
-  "historico": true
+  "anuladaEn": "2026-11-11T10:18:10.649Z"
  },
  {
   "uid": "55377c8a-ee21-4d11-8427-c12dff2d05b7",
@@ -899,8 +891,7 @@
   ],
   "art": 2,
   "sub": 15.96,
-  "total": 15.96,
-  "historico": true
+  "total": 15.96
  },
  {
   "uid": "d3eea12b-e228-4a69-8c52-87beade066ff",
@@ -1030,8 +1021,7 @@
   ],
   "art": 19,
   "sub": 67.04,
-  "total": 67.04,
-  "historico": true
+  "total": 67.04
  },
  {
   "uid": "90e24d00-6ed6-4cf6-bdeb-f1d9454141e3",
@@ -1173,8 +1163,7 @@
   ],
   "art": 25,
   "sub": 45.51,
-  "total": 45.51,
-  "historico": true
+  "total": 45.51
  },
  {
   "uid": "d9af8c2e-57ab-4878-8653-b9fe0bb8167a",
@@ -1304,8 +1293,7 @@
   ],
   "art": 11,
   "sub": 38.18,
-  "total": 38.18,
-  "historico": true
+  "total": 38.18
  },
  {
   "uid": "db3870a2-554a-4cf0-8cdf-97555a131e56",
@@ -1447,8 +1435,7 @@
   ],
   "art": 23,
   "sub": 59.69,
-  "total": 59.69,
-  "historico": true
+  "total": 59.69
  },
  {
   "uid": "abc63d4e-d7ed-491b-82ff-1faaf45c2b3f",
@@ -1566,8 +1553,7 @@
   ],
   "art": 13,
   "sub": 37.22,
-  "total": 37.22,
-  "historico": true
+  "total": 37.22
  },
  {
   "uid": "ba6580e6-18b3-43b7-a93d-3129da25bfb5",
@@ -1625,8 +1611,7 @@
   ],
   "art": 4,
   "sub": 27.2,
-  "total": 27.2,
-  "historico": true
+  "total": 27.2
  },
  {
   "uid": "0b19febb-d005-4dcb-a15e-51571b704349",
@@ -1684,8 +1669,7 @@
   ],
   "art": 7,
   "sub": 25.6,
-  "total": 25.6,
-  "historico": true
+  "total": 25.6
  },
  {
   "uid": "665dc1a5-d508-412d-be4f-2fce6fa16fb9",
@@ -1743,8 +1727,7 @@
   ],
   "art": 9,
   "sub": 19.2,
-  "total": 19.2,
-  "historico": true
+  "total": 19.2
  },
  {
   "uid": "05313496-e39a-41c5-aa48-4ee58effa88c",
@@ -1778,8 +1761,7 @@
   ],
   "art": 2,
   "sub": 30.62,
-  "total": 30.62,
-  "historico": true
+  "total": 30.62
  },
  {
   "uid": "1cf0dade-320f-49ee-ae26-276aa06a5705",
@@ -1873,8 +1855,7 @@
   ],
   "art": 10,
   "sub": 11.23,
-  "total": 11.23,
-  "historico": true
+  "total": 11.23
  },
  {
   "uid": "bc974a7b-894f-458a-808a-556336cff856",
@@ -2040,8 +2021,7 @@
   ],
   "art": 25,
   "sub": 43.87,
-  "total": 43.87,
-  "historico": true
+  "total": 43.87
  },
  {
   "uid": "78be1eb4-448f-481f-8f65-023161f24592",
@@ -2099,8 +2079,7 @@
   ],
   "art": 6,
   "sub": 18.28,
-  "total": 18.28,
-  "historico": true
+  "total": 18.28
  },
  {
   "uid": "906eebd4-8469-46f5-b041-c90eb4acb41f",
@@ -2170,8 +2149,7 @@
   ],
   "art": 4,
   "sub": 20.38,
-  "total": 20.38,
-  "historico": true
+  "total": 20.38
  },
  {
   "uid": "6ef860b4-c211-47a6-a2c3-0e260ecdfb27",
@@ -2265,8 +2243,7 @@
   ],
   "art": 12,
   "sub": 31.72,
-  "total": 31.72,
-  "historico": true
+  "total": 31.72
  },
  {
   "uid": "100fc612-53a4-434f-9953-6d37c6ee5844",
@@ -2372,8 +2349,7 @@
   ],
   "art": 9,
   "sub": 41.09,
-  "total": 41.09,
-  "historico": true
+  "total": 41.09
  },
  {
   "uid": "4af9483d-1ec6-4dc2-90fe-a2ccf8c40027",
@@ -2467,8 +2443,7 @@
   ],
   "art": 10,
   "sub": 48.95,
-  "total": 48.95,
-  "historico": true
+  "total": 48.95
  },
  {
   "uid": "b04222e4-4f17-4c55-baab-3d1647134289",
@@ -2586,8 +2561,7 @@
   ],
   "art": 19,
   "sub": 51.83,
-  "total": 51.83,
-  "historico": true
+  "total": 51.83
  },
  {
   "uid": "be7acb1d-b11a-4df6-980f-70fc98f6ced8",
@@ -2693,8 +2667,7 @@
   ],
   "art": 13,
   "sub": 42.23,
-  "total": 42.23,
-  "historico": true
+  "total": 42.23
  },
  {
   "uid": "6c191486-8fb1-413b-a357-fd772727abd1",
@@ -2788,8 +2761,7 @@
   ],
   "art": 15,
   "sub": 49.76,
-  "total": 49.76,
-  "historico": true
+  "total": 49.76
  },
  {
   "uid": "67699abe-d361-4916-bc1b-631523236814",
@@ -2883,8 +2855,7 @@
   ],
   "art": 11,
   "sub": 22.87,
-  "total": 22.87,
-  "historico": true
+  "total": 22.87
  },
  {
   "uid": "192c4d29-8cd4-494d-a0bf-1b7e4779b8a5",
@@ -3062,8 +3033,7 @@
   ],
   "art": 20,
   "sub": 50.83,
-  "total": 50.83,
-  "historico": true
+  "total": 50.83
  },
  {
   "uid": "4d941f17-c27a-4056-9971-796bd2554c72",
@@ -3121,8 +3091,7 @@
   ],
   "art": 8,
   "sub": 8.02,
-  "total": 8.02,
-  "historico": true
+  "total": 8.02
  },
  {
   "uid": "6a9212d0-dd13-4314-9827-52388bd72435",
@@ -3168,8 +3137,7 @@
   ],
   "art": 2,
   "sub": 12.76,
-  "total": 12.76,
-  "historico": true
+  "total": 12.76
  },
  {
   "uid": "0f517309-402c-4f56-855f-5b5f994fea82",
@@ -3287,8 +3255,7 @@
   ],
   "art": 15,
   "sub": 39.24,
-  "total": 39.24,
-  "historico": true
+  "total": 39.24
  },
  {
   "uid": "70272a95-5df1-45f1-800b-c351aa3cf361",
@@ -3322,8 +3289,7 @@
   ],
   "art": 2,
   "sub": 23.84,
-  "total": 23.84,
-  "historico": true
+  "total": 23.84
  },
  {
   "uid": "3dcbba75-4057-4ea7-835b-a57808fbc157",
@@ -3429,8 +3395,7 @@
   ],
   "art": 12,
   "sub": 70.85,
-  "total": 70.85,
-  "historico": true
+  "total": 70.85
  },
  {
   "uid": "b2b8b837-8e32-44e7-a88c-7ec948f88986",
@@ -3488,8 +3453,7 @@
   ],
   "art": 3,
   "sub": 19.21,
-  "total": 19.21,
-  "historico": true
+  "total": 19.21
  },
  {
   "uid": "153272ae-e72e-46b2-8b04-1be140ba4ce1",
@@ -3559,8 +3523,7 @@
   ],
   "art": 4,
   "sub": 24.92,
-  "total": 24.92,
-  "historico": true
+  "total": 24.92
  },
  {
   "uid": "cc44f2ae-1a5e-4c01-b441-28fd75fe6c5b",
@@ -3642,8 +3605,7 @@
   ],
   "art": 5,
   "sub": 25.9,
-  "total": 25.9,
-  "historico": true
+  "total": 25.9
  },
  {
   "uid": "185011cb-2584-4a92-9404-903fd90ef5cf",
@@ -3701,8 +3663,7 @@
   ],
   "art": 4,
   "sub": 15.4,
-  "total": 15.4,
-  "historico": true
+  "total": 15.4
  },
  {
   "uid": "739522ff-2af4-4be0-bb94-d94269c3f835",
@@ -3772,8 +3733,7 @@
   ],
   "art": 4,
   "sub": 24.65,
-  "total": 24.65,
-  "historico": true
+  "total": 24.65
  },
  {
   "uid": "09b96e91-4aa2-4915-8abd-fa5886faf41f",
@@ -3855,8 +3815,7 @@
   ],
   "art": 5,
   "sub": 29.54,
-  "total": 29.54,
-  "historico": true
+  "total": 29.54
  },
  {
   "uid": "076e93de-900e-4ad9-b582-6d1b5827f3df",
@@ -3926,8 +3885,7 @@
   ],
   "art": 7,
   "sub": 27,
-  "total": 27,
-  "historico": true
+  "total": 27
  },
  {
   "uid": "f702fee1-5092-4709-97ca-e1d1449d2f32",
@@ -4009,8 +3967,7 @@
   ],
   "art": 20,
   "sub": 29.64,
-  "total": 29.64,
-  "historico": true
+  "total": 29.64
  },
  {
   "uid": "8f252b52-375a-4a25-a6b7-25943db6fba8",
@@ -4080,8 +4037,7 @@
   ],
   "art": 4,
   "sub": 24.88,
-  "total": 24.88,
-  "historico": true
+  "total": 24.88
  },
  {
   "uid": "6e2e7499-c819-4e12-bd54-ea70f20a895b",
@@ -4139,8 +4095,7 @@
   ],
   "art": 4,
   "sub": 14.03,
-  "total": 14.03,
-  "historico": true
+  "total": 14.03
  },
  {
   "uid": "9fec2113-19c3-4769-86f0-3607ee71e818",
@@ -4234,8 +4189,7 @@
   ],
   "art": 8,
   "sub": 28.73,
-  "total": 28.73,
-  "historico": true
+  "total": 28.73
  },
  {
   "uid": "8ab0c19a-171c-4e4e-b4d6-fc641efe93aa",
@@ -4341,8 +4295,7 @@
   ],
   "art": 10,
   "sub": 21.28,
-  "total": 21.28,
-  "historico": true
+  "total": 21.28
  },
  {
   "uid": "a0e64b59-1db8-43ee-adf9-e53bf598094d",
@@ -4412,8 +4365,7 @@
   ],
   "art": 8,
   "sub": 11.17,
-  "total": 11.17,
-  "historico": true
+  "total": 11.17
  },
  {
   "uid": "5947ed15-8001-4744-bcdb-a03ffb906559",
@@ -4495,7 +4447,6 @@
   ],
   "art": 5,
   "sub": 33.8,
-  "total": 33.8,
-  "historico": true
+  "total": 33.8
  }
 ]
