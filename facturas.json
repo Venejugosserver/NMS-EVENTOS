@@ -6870,7 +6870,7 @@
   "caja": "2RJW",
   "numero": "NMS-2RJW-00037",
   "fecha": "2026-11-23T19:44:10.114Z",
-  "estado": "guardada",
+  "estado": "anulada",
   "cliente": {
    "nombre": "YOSWER",
    "doc": "CREDITO",
@@ -6937,7 +6937,8 @@
   ],
   "art": 4,
   "sub": 21.31,
-  "total": 21.31
+  "total": 21.31,
+  "anuladaEn": "2026-11-25T19:46:48.248Z"
  },
  {
   "uid": "1304d01d-1477-4761-b580-fd165b71e1e9",
