@@ -6612,7 +6612,7 @@
   "caja": "2RJW",
   "numero": "NMS-2RJW-00032",
   "fecha": "2026-11-23T19:02:48.895Z",
-  "estado": "guardada",
+  "estado": "anulada",
   "cliente": {
    "nombre": "LILIBETH LAVERDE",
    "doc": "CREDITO",
@@ -6653,7 +6653,8 @@
   ],
   "art": 4,
   "sub": 26.3,
-  "total": 26.3
+  "total": 26.3,
+  "anuladaEn": "2026-11-25T19:56:02.239Z"
  },
  {
   "uid": "6852e6c5-55de-42ef-b062-daa7d61cc9e1",
