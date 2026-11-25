@@ -6746,7 +6746,7 @@
   "caja": "2RJW",
   "numero": "NMS-2RJW-00035",
   "fecha": "2026-11-23T19:17:52.196Z",
-  "estado": "guardada",
+  "estado": "anulada",
   "cliente": {
    "nombre": "KAREN MONTES",
    "doc": "CREDITO",
@@ -6800,7 +6800,8 @@
   ],
   "art": 5,
   "sub": 11.37,
-  "total": 11.37
+  "total": 11.37,
+  "anuladaEn": "2026-11-25T19:52:21.663Z"
  },
  {
   "uid": "f8a44642-68e3-42a8-acdf-faf7b51193c8",
