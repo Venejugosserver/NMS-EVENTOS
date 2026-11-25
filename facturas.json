@@ -7386,5 +7386,106 @@
   "art": 10,
   "sub": 22.28,
   "total": 22.28
+ },
+ {
+  "uid": "ac878984-356c-4825-bf0e-c5d1a0671f8f",
+  "seq": 45,
+  "caja": "2RJW",
+  "numero": "NMS-2RJW-00045",
+  "fecha": "2026-11-25T19:32:34.061Z",
+  "estado": "guardada",
+  "cliente": {
+   "nombre": "Sharon Pernia",
+   "doc": "Credito",
+   "tel": "",
+   "evento": ""
+  },
+  "iva": 0,
+  "tasa": 919.82,
+  "tasaFecha": "2026-11-20",
+  "totalBs": 20456.8,
+  "items": [
+   {
+    "codigo": "12055663",
+    "id": 6,
+    "producto": "SAVOY® LECHE 24(12X30G) VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 1.23,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 1.23,
+    "base": "bmwwipsjd"
+   },
+   {
+    "codigo": "12131304",
+    "id": 8,
+    "producto": "SUSY® CHOCOLATE MAXI 12(18X50G) VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 0.84,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 0.84,
+    "base": "bmwwcmm0q"
+   },
+   {
+    "codigo": "12056802",
+    "id": 11,
+    "producto": "CRI CRI® 24(12X27G) VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 1.23,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 1.23,
+    "base": "bmwwiq4o0"
+   },
+   {
+    "codigo": "14532236",
+    "id": 21,
+    "producto": "NEST CREMA DE LECHE DUOPACK 24(2X300G)VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "UNI",
+    "precio": 6.78,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 6.78,
+    "base": "bmwwiql3s"
+   },
+   {
+    "codigo": "12057192",
+    "id": 23,
+    "producto": "SAVOY® CARRÉ AVELLANAS 12(10X100G)",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 4.72,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 4.72,
+    "base": "bmwwirb4o"
+   },
+   {
+    "codigo": "12602873",
+    "id": 45,
+    "producto": "TORONTO NEVADO BOLSA 48X125G VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "BOLSA",
+    "precio": 7.44,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 7.44,
+    "base": "bmwwiqci1"
+   }
+  ],
+  "art": 6,
+  "sub": 22.24,
+  "total": 22.24
  }
 ]
