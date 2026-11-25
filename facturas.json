@@ -7577,5 +7577,106 @@
   "art": 5,
   "sub": 25.35,
   "total": 25.35
+ },
+ {
+  "uid": "fb3de4c6-bbad-4a10-aa47-63f766c2bbdf",
+  "seq": 47,
+  "caja": "2RJW",
+  "numero": "NMS-2RJW-00047",
+  "fecha": "2026-11-25T19:52:16.620Z",
+  "estado": "guardada",
+  "cliente": {
+   "nombre": "Karen Montes",
+   "doc": "Credito",
+   "tel": "",
+   "evento": ""
+  },
+  "iva": 0,
+  "tasa": 919.82,
+  "tasaFecha": "2026-11-20",
+  "totalBs": 18948.29,
+  "items": [
+   {
+    "codigo": "12087277",
+    "id": 7,
+    "producto": "SAMBA® FRESA DISPLAY 16(20X32G) VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 0.9,
+    "impuesto": 0,
+    "qty": 3,
+    "total": 2.7,
+    "base": "bmwwjfbuv"
+   },
+   {
+    "codigo": "12327151",
+    "id": 13,
+    "producto": "RIKITI CHOCO MANI (12X30G)",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 1.23,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 1.23,
+    "base": "bmwwikoad"
+   },
+   {
+    "codigo": "12267655",
+    "id": 22,
+    "producto": "NESTLE LECHE CONDENSADA 395G (E)",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "UNI",
+    "precio": 3.56,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 3.56,
+    "base": "bmwwckwrf"
+   },
+   {
+    "codigo": "14513704",
+    "id": 34,
+    "producto": "KIT KAT 4FINGERS LECHE 8(12X41.5G) VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 1.29,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 1.29,
+    "base": "bmwwcywde"
+   },
+   {
+    "codigo": "12602873",
+    "id": 45,
+    "producto": "TORONTO NEVADO BOLSA 48X125G VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "BOLSA",
+    "precio": 7.44,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 7.44,
+    "base": "bmwwjfqt3"
+   },
+   {
+    "codigo": "425",
+    "id": 67,
+    "producto": "BOTECITOS FRESA PAQUETE 6X210GR",
+    "linea": "Sin línea",
+    "marca": "ONCE-ONCE",
+    "unidad": "DIS",
+    "precio": 4.38,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 4.38,
+    "base": "bmwwcyns2"
+   }
+  ],
+  "art": 8,
+  "sub": 20.6,
+  "total": 20.6
  }
 ]
