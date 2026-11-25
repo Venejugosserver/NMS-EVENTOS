@@ -7679,5 +7679,80 @@
   "art": 8,
   "sub": 20.6,
   "total": 20.6
+ },
+ {
+  "uid": "2cc6060c-ea41-4133-afb3-4f2109c369d7",
+  "seq": 48,
+  "caja": "2RJW",
+  "numero": "NMS-2RJW-00048",
+  "fecha": "2026-11-25T19:55:55.560Z",
+  "estado": "guardada",
+  "cliente": {
+   "nombre": "Lilibeth Laverde",
+   "doc": "Credito ",
+   "tel": "",
+   "evento": ""
+  },
+  "iva": 0,
+  "tasa": 919.82,
+  "tasaFecha": "2026-11-20",
+  "totalBs": 33380.27,
+  "items": [
+   {
+    "codigo": "12056802",
+    "id": 11,
+    "producto": "CRI CRI® 24(12X27G) VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 1.23,
+    "impuesto": 0,
+    "qty": 2,
+    "total": 2.46,
+    "base": "bmwwjkcs9"
+   },
+   {
+    "codigo": "12332027",
+    "id": 19,
+    "producto": "CERELAC SACHET 24X400G VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "UNI",
+    "precio": 6.35,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 6.35,
+    "base": "bmwwczezl"
+   },
+   {
+    "codigo": "12500552",
+    "id": 29,
+    "producto": "LA CAMPESINA LECPLV HIERRO 12X800GVE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "UNI",
+    "precio": 11.92,
+    "impuesto": 0,
+    "qty": 2,
+    "total": 23.84,
+    "base": "bmwwjko28"
+   },
+   {
+    "codigo": "12436272",
+    "id": 51,
+    "producto": "NESTEA DURAZNO 12X240G VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "UNI",
+    "precio": 3.64,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 3.64,
+    "base": "bmwwczqi2"
+   }
+  ],
+  "art": 6,
+  "sub": 36.29,
+  "total": 36.29
  }
 ]
