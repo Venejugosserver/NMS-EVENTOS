@@ -7488,5 +7488,93 @@
   "art": 6,
   "sub": 22.24,
   "total": 22.24
+ },
+ {
+  "uid": "2f2674df-629f-482a-ad31-d7b4477e6281",
+  "seq": 46,
+  "caja": "2RJW",
+  "numero": "NMS-2RJW-00046",
+  "fecha": "2026-11-25T19:46:42.774Z",
+  "estado": "guardada",
+  "cliente": {
+   "nombre": "Yoswer",
+   "doc": "",
+   "tel": "",
+   "evento": ""
+  },
+  "iva": 0,
+  "tasa": 919.82,
+  "tasaFecha": "2026-11-20",
+  "totalBs": 23317.44,
+  "items": [
+   {
+    "codigo": "12055663",
+    "id": 6,
+    "producto": "SAVOY® LECHE 24(12X30G) VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 1.23,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 1.23,
+    "base": "bmwwiufew"
+   },
+   {
+    "codigo": "12124086",
+    "id": 18,
+    "producto": "SAVOY® LECHE (5X130G)",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 4.12,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 4.12,
+    "base": "bmwwiutlr"
+   },
+   {
+    "codigo": "440663",
+    "id": 26,
+    "producto": "CALDO POLLO 16 (184GR)",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "UNI",
+    "precio": 4.04,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 4.04,
+    "base": "bmwwivcnk"
+   },
+   {
+    "codigo": "12500552",
+    "id": 29,
+    "producto": "LA CAMPESINA LECPLV HIERRO 12X800GVE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "UNI",
+    "precio": 11.92,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 11.92,
+    "base": "bmwwd0nma"
+   },
+   {
+    "codigo": "12377262",
+    "id": 55,
+    "producto": "SAZONATODO BOTELLA 20X200G N1 VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "UNI",
+    "precio": 4.04,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 4.04,
+    "base": "bmwwcye2j"
+   }
+  ],
+  "art": 5,
+  "sub": 25.35,
+  "total": 25.35
  }
 ]
