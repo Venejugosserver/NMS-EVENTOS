@@ -6945,7 +6945,7 @@
   "caja": "2RJW",
   "numero": "NMS-2RJW-00038",
   "fecha": "2026-11-23T19:51:23.194Z",
-  "estado": "guardada",
+  "estado": "anulada",
   "cliente": {
    "nombre": "SHARON PERNIA",
    "doc": "CREDITO",
@@ -7025,7 +7025,8 @@
   ],
   "art": 5,
   "sub": 21.4,
-  "total": 21.4
+  "total": 21.4,
+  "anuladaEn": "2026-11-25T19:32:39.143Z"
  },
  {
   "uid": "d9c3c006-8a98-4124-b01c-7e5ed48f7afd",
