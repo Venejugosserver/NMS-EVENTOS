@@ -7272,5 +7272,119 @@
   "art": 1,
   "sub": 20.43,
   "total": 20.43
+ },
+ {
+  "uid": "3d99ecca-8211-4e2b-9aa8-2d4f3a625214",
+  "seq": 44,
+  "caja": "2RJW",
+  "numero": "NMS-2RJW-00044",
+  "fecha": "2026-11-25T19:28:36.829Z",
+  "estado": "guardada",
+  "cliente": {
+   "nombre": "Auromari",
+   "doc": "CREDITO",
+   "tel": "",
+   "evento": ""
+  },
+  "iva": 0,
+  "tasa": 919.82,
+  "tasaFecha": "2026-11-20",
+  "totalBs": 20493.59,
+  "items": [
+   {
+    "codigo": "12131599",
+    "id": 9,
+    "producto": "COCOSETTE® MAXI 12(18X50G) VE",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 0.84,
+    "impuesto": 0,
+    "qty": 2,
+    "total": 1.68,
+    "base": "bmwwijbtl"
+   },
+   {
+    "codigo": "12408798",
+    "id": 10,
+    "producto": "SOPA DE POLLO C/ FIDEOS NF 62GR",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "UNI",
+    "precio": 1.31,
+    "impuesto": 0,
+    "qty": 2,
+    "total": 2.62,
+    "base": "bmwwilrgp"
+   },
+   {
+    "codigo": "12327151",
+    "id": 13,
+    "producto": "RIKITI CHOCO MANI (12X30G)",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 1.23,
+    "impuesto": 0,
+    "qty": 2,
+    "total": 2.46,
+    "base": "bmwwikoad"
+   },
+   {
+    "codigo": "12267655",
+    "id": 22,
+    "producto": "NESTLE LECHE CONDENSADA 395G (E)",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "UNI",
+    "precio": 3.56,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 3.56,
+    "base": "bmwwckwrf"
+   },
+   {
+    "codigo": "12057192",
+    "id": 23,
+    "producto": "SAVOY® CARRÉ AVELLANAS 12(10X100G)",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "DISPLAY",
+    "precio": 4.72,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 4.72,
+    "base": "bmwwihrcd"
+   },
+   {
+    "codigo": "8701722",
+    "id": 54,
+    "producto": "CARNATION LECHE EVAPORADA 4(10X290ML) DO",
+    "linea": "Sin línea",
+    "marca": "NESTLE",
+    "unidad": "UNI",
+    "precio": 2.23,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 2.23,
+    "base": "bmwwimad5"
+   },
+   {
+    "codigo": "44",
+    "id": 66,
+    "producto": "PANQUE VAINILLA PAQUETE 390G X 6",
+    "linea": "Sin línea",
+    "marca": "ONCE-ONCE",
+    "unidad": "DIS",
+    "precio": 5.01,
+    "impuesto": 0,
+    "qty": 1,
+    "total": 5.01,
+    "base": "bmwwil7e1"
+   }
+  ],
+  "art": 10,
+  "sub": 22.28,
+  "total": 22.28
  }
 ]
